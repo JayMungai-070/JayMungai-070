@@ -53,7 +53,7 @@
 ## 🌐 Connect With Me  
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40ya__roto__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ya_roto_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-James%20Mungai%20Kinyungu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-mungai-kinyungu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-James%20Mungai%20Kinyungu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-kinyungu-6332b6321/)  
 
 ---
 
