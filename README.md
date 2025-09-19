@@ -1,20 +1,78 @@
 ![logo](https://github.com/JayMungai-070/JayMungai-070/blob/main/Profile%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm James Mungai Kinyungu</h1>
-<h3 align="center">A Full Stack Developer specializing in building robust web applications. With expertise in both front-end and back-end development, I create efficient, scalable, and user-friendly solutions. From microfinance systems to e-commerce platforms, I bring ideas to life through code.</h3>
+# Hi 👋, I'm James Mungai Kinyungu  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaymungai-070&label=Profile%20views&color=0e75b6&style=flat" alt="jaymungai-070" /> </p>
+### 🚀 Full Stack Developer | Building Robust, Scalable & User-Friendly Web Applications  
 
-- 👨‍💻 All of my projects are available at [https://jamesmungaikinyungu.infinityfreeapp.com/portfolio](https://jamesmungaikinyungu.infinityfreeapp.com/portfolio)
+✨ I specialize in **end-to-end development** — from front-end design to back-end architecture.  
+💡 My experience spans across **microfinance systems, e-commerce platforms, and enterprise management tools**.  
+⚡ I thrive on solving complex challenges with clean and efficient code.  
 
-- 📫 How to reach me **jameskinyungu95@gmail.com**
+---
 
-- 📄 Know about my experiences [https://jamesmungaikinyungu.infinityfreeapp.com/Resume/index](https://jamesmungaikinyungu.infinityfreeapp.com/Resume/index)
+## 👨‍💻 About Me  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ya_roto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ya_roto_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/james (mungai) kinyungu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james (mungai) kinyungu" height="30" width="40" /></a>
-</p>
+- 🔭 Currently working on: **Scalable Microfinance & POS Systems**  
+- 🌱 Exploring: **AI Integrations, Cloud Hosting, and Next.js**  
+- 💬 Ask me about: **Web Development, Databases, and Scalable System Design**  
+- 👨‍💻 All my projects: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge)](https://jamesmungaikinyungu.infinityfreeapp.com/portfolio)  
+- 📄 My experiences: [![Resume](https://img.shields.io/badge/Resume-Open-brightgreen?style=for-the-badge)](https://jamesmungaikinyungu.infinityfreeapp.com/Resume/index)  
+- 📫 Reach me at: **jameskinyungu95@gmail.com**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🏆 GitHub Achievements  
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaymungai-070&label=Visitors&color=blueviolet&style=for-the-badge)  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jaymungai-070&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10)
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaymungai-070&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaymungai-070&layout=compact&theme=radical&hide_border=true&langs_count=10)  
+
+---
+
+## 🔥 Top Skills  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+---
+
+## 🌐 Connect With Me  
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40ya__roto__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ya_roto_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-James%20Mungai%20Kinyungu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-mungai-kinyungu)  
+
+---
+
+## ⚡ What I Do Best  
+
+- 🎨 **Front-End Development** → Creating responsive, elegant, and user-friendly UIs  
+- ⚙️ **Back-End Development** → Architecting secure, scalable, and high-performing systems  
+- 🗄️ **Database Management** → Designing optimized schemas with **MySQL**  
+- 🛠️ **APIs & Integrations** → Building REST APIs and connecting third-party services  
+- 📦 **Version Control** → Using Git for clean workflows and collaboration  
+- 🌍 **Deployment** → Hosting and managing projects on modern platforms  
+
+---
+
+## ✨ Closing Note  
+
+💡 *"I believe technology is more than code — it’s about crafting solutions that improve lives. As a Full Stack Developer, my mission is to transform ideas into reality through innovation, scalability, and user-centric design."*  
+
+---
+
