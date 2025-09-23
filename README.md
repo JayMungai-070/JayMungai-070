@@ -20,19 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Profile Views](https://komarev.com/ghpvc/?username=jaymungai-070&label=Visitors&color=blueviolet&style=for-the-badge)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaymungai-070&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaymungai-070&theme=radical&hide_border=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaymungai-070&layout=compact&theme=radical&hide_border=true&langs_count=10)  
-
----
-
-
 
 ## 🔥 Top Skills  
 
